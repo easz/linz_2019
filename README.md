@@ -6,6 +6,6 @@ Summary: Aerial images of Linz with 20cm resolution (November 2019)
 
 Source: https://www.data.gv.at/katalog/dataset/cbd03782-d8cd-49de-a038-9ce7bd1591ce
 
-Cache format: XYZ web map tiles (up to zoom level 19)
+Cache format: XYZ web map tiles (up to zoom level 18)
 
 License: Creative Commons Namensnennung 4.0 International
